@@ -1,0 +1,39 @@
+body{
+    background-color:aliceblue;
+}
+h1{
+    color: beige;
+    margin-left:50px ;
+}
+p.one{
+    border-style:dotted;
+    border-color: black;
+    width: 400px;
+    padding-left: 40px;
+}
+p.two{
+    border-style: double;
+    border-color: black;
+    width:600px;
+    padding-left: 40px
+}
+body{
+    background-color: blue;
+}
+h1{
+    color: aquamarine;
+    margin-left: 50px;
+}
+p.one{
+    border-style: dotted;
+    border-color: brown;
+    width: 400px;
+    padding-left: 40px;
+
+}
+p.two{
+    border-style: double;
+    border-color: beige;
+    width: 600px;
+    padding-left: 40px;
+}
